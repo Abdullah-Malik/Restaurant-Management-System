@@ -1,6 +1,6 @@
 # Restaurant-Management-System
 
-<pre>
+
 
 - 📄 [build.xml](build.xml)
 - 📂 __dist__
@@ -38,7 +38,7 @@
     - 📄 [waiter.java](src/restaurantsystem/waiter.java)
 - 📂 __test__
 - 📄 [waiters.txt](waiters.txt)
-</pre>
+
 ![Screenshot](rpic.PNG)
 ![Screenshot](r2pic.PNG)
 ![Screenshot](r3pic.PNG)
