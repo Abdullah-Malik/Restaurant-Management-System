@@ -1,6 +1,9 @@
 # Restaurant-Management-System
 
 
+![Screenshot](rpic.PNG)
+![Screenshot](r2pic.PNG)
+![Screenshot](r3pic.PNG)
 
 - 📄 [build.xml](build.xml)
 - 📂 __dist__
@@ -39,6 +42,3 @@
 - 📂 __test__
 - 📄 [waiters.txt](waiters.txt)
 
-![Screenshot](rpic.PNG)
-![Screenshot](r2pic.PNG)
-![Screenshot](r3pic.PNG)
