@@ -2,6 +2,10 @@
 
 In this project, a Restuarant Management System was implemented. This system is to be used to by the staff such as waiters and the cashier at the restaurant. The system was implemented to eliminate the need for the manual paper done by the staff and digitize the work of staff. The system allows waiters to check the status of the tables in the restuarants, and also allows to check the status. The waiter can quickly check which tables are clean, reserved and waiting to be cleaned. The waiter can also take order using this system and can also generate invoices. 
 
+Technologies used include:
+1. Java
+2. Swing Library
+
 ![Screenshot](rpic.PNG)
 ![Screenshot](r2pic.PNG)
 ![Screenshot](r3pic.PNG)
